@@ -13,6 +13,7 @@ Todos fariam essa linha por completo, relativo às principais habilidades essenc
  - Aprendizagem supervisionada: geral
  - Aprendizagem não-supervisionada: geral
  - Aprendizagem por reforço: geral
+ - Git e controle de versão
 
 ## Linha especialista
 
