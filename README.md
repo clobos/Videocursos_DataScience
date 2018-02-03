@@ -13,7 +13,8 @@ Todos fariam essa linha por completo, relativo às principais habilidades essenc
  - Aprendizagem supervisionada: geral
  - Aprendizagem não-supervisionada: geral
  - Aprendizagem por reforço: geral
- - Git e controle de versão
+ - Git e controle de versão 
+
 
 ## Linha especialista
 
@@ -26,6 +27,7 @@ Todos escolheriam um ou mais tópicos específicos, aprofundando-se neles visand
  - Feature engineering
  - Feature extraction
  - Inferência causal
+ 	* (Crash Course in Causality)[https://www.coursera.org/learn/crash-course-in-causality]
  - Programação funcional
  - Modelos dinâmicos
  - ...
