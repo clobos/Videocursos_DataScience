@@ -13,20 +13,23 @@ Todos fariam essa linha por completo, relativo às principais habilidades essenc
  - Raspagem de dados
  - Git e controle de versão
  - Aprendizagem De Máquina - Nível Graduando
-    - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120)
-    - [Machine Learning I](https://www.coursera.org/learn/machine-learning)
-    - [Machine Learning II](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-    - Outros Recursos
+     - [Introdução ao Aprendizado de Máquina](https://br.udacity.com/course/intro-to-machine-learning--ud120)
+     - [Machine Learning I](https://www.coursera.org/learn/machine-learning)  
+     - [Machine Learning II](https://www.youtube.com/watch?v=pid0lUH467o&list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
+     - Outros Recursos
         - [Aprendizado de Máquina - Udacity](https://br.udacity.com/course/machine-learning--ud262)
-        - [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
         - [Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+        - [Information Theory, Pattern Recognition, and Neural Networks](https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
+        - 
+
         
 
 ## Linha especialista
 
 Todos escolheriam um ou mais tópicos específicos, aprofundando-se neles visando ao desenvolvimento de artigos e seminários. Sugestões incluem:
 
- 
+ - Deep Learning
+    - [Intro to Deep Learning I](https://www.coursera.org/specializations/deep-learning)
  - Estatística espacial
  - Inferência Bayesiana
  - Feature engineering
