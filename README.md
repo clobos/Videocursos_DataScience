@@ -37,11 +37,17 @@ Todos escolheriam um ou mais tópicos específicos, aprofundando-se neles visand
      
  - [Ciência de Dados Competitiva](https://www.coursera.org/learn/competitive-data-science)
  - Estatística espacial
- - Inferência Bayesiana
- - Feature engineering
- - Feature extraction
- - Inferência causal
- 	* [Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
+ - Inferência Bayesiana  
+     - [Bayesian Statistics](https://www.coursera.org/learn/bayesian)  
+     - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)  
+     - [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning)  
+     - [Probabilistic Machine Learning](https://www.zabaras.com/statisticalcomputing)   
+     
+ - Inferência causal  
+     - [Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
+     - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) 
+    
+  
  - Programação funcional
  - Modelos dinâmicos
  - ...
