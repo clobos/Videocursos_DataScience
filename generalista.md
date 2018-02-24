@@ -6,6 +6,7 @@ o ideal é que se complete todos, porém em seu tempo, no seu ritmo, tendo em me
     - https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
     - https://www.edx.org/course/data-science-r-basics-harvardx-ph125-1x-0
     - https://www.coursera.org/learn/python
+    - http://www-bcf.usc.edu/~gareth/ISL/ (LIVRO)
  - Manipulação de dados/saber tratar uma base
     - https://br.udacity.com/course/data-wrangling-with-mongodb--ud032#
     - https://www.edx.org/course/data-science-wrangling-harvardx-ph125-6x
@@ -27,6 +28,9 @@ o ideal é que se complete todos, porém em seu tempo, no seu ritmo, tendo em me
  - Aprendizagem por reforço: geral
     - https://br.udacity.com/course/reinforcement-learning--ud600#
  - Git e controle de versão
-    - https://git-scm.com/book/pt-br/v2
+    - https://git-scm.com/book/pt-br/v2 (LIVRO)
+    - https://br.udacity.com/course/how-to-use-git-and-github--ud775#
  - Storytelling com dados
     - https://br.udacity.com/course/data-visualization-and-d3js--ud507
+    - https://www.amazon.com.br/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257/ref=sr_1_1?s=books&ie=UTF8&qid=1519504546&sr=1-1&keywords=data+storytelling (LIVRO)
+    
