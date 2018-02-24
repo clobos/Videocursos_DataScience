@@ -6,7 +6,7 @@ A ideia é construir uma lista de videocursos sobre data science para que todos 
 
 Todos fariam essa linha por completo, relativo às principais habilidades essenciais a um data scientist, tais como, mas não limitadas a:
 
- - Básico de programação estruturada em alto nível (Mainstream = R e/ou Python)
+ - Básico de programação estruturada em alto nível (Mainstream = Python e/ou R)
  - Manipulação de dados/saber tratar uma base
  - Visualização de dados: confecção de gráficos/tabelas
  - Raspagem de dados
