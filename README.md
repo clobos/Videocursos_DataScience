@@ -5,7 +5,7 @@ A ideia é construir uma lista de videocursos sobre data science para que todos 
 ## Linha generalista
 
 Para cada tópico podem ser sugeridos varios ou apenas um link, escolha o que mais lhe agradar e faça. Para a linha generalista
-o ideal é que se complete todos, porém em seu tempo, no seu ritmo, tendo em mente sempre um compromisso de finaliza-los.
+o ideal é que se complete todos de cada tópico, porém em seu tempo, no seu ritmo, tendo em mente sempre um compromisso de finaliza-los.
  - Git e controle de versão
     - https://git-scm.com/book/pt-br/v2 (LIVRO)
     - https://br.udacity.com/course/how-to-use-git-and-github--ud775#
