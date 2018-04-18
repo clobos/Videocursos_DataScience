@@ -66,6 +66,7 @@ Todos escolheriam um ou mais tópicos específicos, aprofundando-se neles visand
      
  - Inferência causal  
      - [Crash Course in Causality](https://www.coursera.org/learn/crash-course-in-causality)
+     - [Machine Learning and Econometrics](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
      - [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models) 
     
  - Modelos dinâmicos
